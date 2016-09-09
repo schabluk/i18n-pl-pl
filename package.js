@@ -1,7 +1,7 @@
 Package.describe({
   name: "lusch:nova-i18n-pl-pl",
   summary: "Telescope i18n package (pl_PL)",
-  version: "0.26.7-nova",
+  version: "0.26.3-nova",
   git: "https://github.com/schabluk/i18n-pl-pl.git"
 });
 
